@@ -10,3 +10,5 @@ qr.make(fit=True)
 img = qr.make_image(fill_color="blue",back_color="white")
 
 img.save("geeks for geeks")
+
+# comminting some changes 
